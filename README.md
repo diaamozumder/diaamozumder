@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" width="100%" alt="Dia Mozumder GitHub Banner" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Dia Mozumder</h1>
 
 <h3 align="center">CSE Student | Aspiring Web Developer</h3>
