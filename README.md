@@ -71,30 +71,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diaamozumder&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api?username=diaamozumder&show_icons=true&theme=tokyonight" />
 </p>
-
----
-
-## 🔥 GitHub Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=diaamozumder&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
----
 
 ## 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diaamozumder&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=diaamozumder&layout=compact&theme=tokyonight" />
 </p>
 
----
+## 🔥 GitHub Contribution Streak
 
 <p align="center">
-  ✨ Learning with curiosity, building with passion, growing with consistency. 🚀
+  <img src="https://streak-stats.demolab.com/?user=diaamozumder&theme=tokyonight" />
 </p>
